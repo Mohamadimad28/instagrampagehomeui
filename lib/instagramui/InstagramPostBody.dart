@@ -7,7 +7,7 @@ class InstagramPostBody extends StatelessWidget {
   Widget build(BuildContext context) {
     // TODO: implement build
     return Container(
-      color: Colors.red,
+      color: Colors.transparent,
       child: Image.network(
         image,
         fit: BoxFit.cover,
